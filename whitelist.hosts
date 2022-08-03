@@ -12,3 +12,10 @@
 @@||ext.azure.com^important
 @@||ad.azure.com^important
 @@||portal.azure.net^important
+@@||aka.ms^$important
+@@||akadns.net^$important
+@@||akamai.net^$important
+@@||akamaiedge.net^$important
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
