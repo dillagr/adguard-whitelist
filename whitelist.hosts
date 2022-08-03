@@ -1,17 +1,17 @@
 ## AWS Domains
-@@||awsapps.com^important
-@@||cloudfront.net^important
-@@||console.aws.a2z.com^important
-@@||cloudfront.aws.a2z.com^important
-@@||docs.aws.a2z.com^important
-@@||check-ip.aws.a2z.com^important
+@@||awsapps.com^$important
+@@||cloudfront.net^$important
+@@||console.aws.a2z.com^$important
+@@||cloudfront.aws.a2z.com^$important
+@@||docs.aws.a2z.com^$important
+@@||check-ip.aws.a2z.com^$important
 ## Microsoft
-@@||download.microsoft.com^important
-@@||download.windowsupdate.com^important
+@@||download.microsoft.com^$important
+@@||download.windowsupdate.com^$important
 ## Azure
-@@||ext.azure.com^important
-@@||ad.azure.com^important
-@@||portal.azure.net^important
+@@||ext.azure.com^$important
+@@||ad.azure.com^$important
+@@||portal.azure.net^$important
 @@||aka.ms^$important
 @@||akadns.net^$important
 @@||akamai.net^$important
