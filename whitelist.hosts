@@ -2,6 +2,7 @@
 @@||awsapps.com^$important
 @@||cloudfront.net^$important
 @@||console.aws.a2z.com^$important
+@@||console.aws.amazon.com^$important
 @@||cloudfront.aws.a2z.com^$important
 @@||docs.aws.a2z.com^$important
 @@||check-ip.aws.a2z.com^$important
@@ -20,3 +21,5 @@
 @@||akamaihd.net^$important
 @@||akamaitechnologies.com^$important
 @@||akamaized.net^$important
+## GOOGLE
+@@||fonts.gstatic.com^$important
