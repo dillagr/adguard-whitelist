@@ -27,3 +27,9 @@
 @@||ssl.gstatic.com^$important
 @@||play.google.com^$important
 @@||accounts.google.com^$important
+## GITHUB
+@@||githubusercontent.com^$important
+@@||github.com^$important
+@@||github.io^$important
+## NTP
+@@||ntp.org^important
