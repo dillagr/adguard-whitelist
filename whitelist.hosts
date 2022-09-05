@@ -10,6 +10,7 @@
 @@||download.microsoft.com^$important
 @@||download.windowsupdate.com^$important
 @@||login.microsoftonline.com^$important
+@@||mp.microsoft.com^$important
 ## Azure
 @@||ext.azure.com^$important
 @@||ad.azure.com^$important
