@@ -2,3 +2,5 @@
 ||avast.com^$important
 ## google-ads
 ||googleadservices.com^$important
+## qnap-cloud
+||connector.myqnapcloud.com$^important
