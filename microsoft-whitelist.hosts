@@ -1,0 +1,16 @@
+##
+## When purposely installing updates, move to this subnet
+##
+@@||mp.microsoft.com$client='10.9.1.0/24'
+@@||delivery.mp.microsoft.com$client='10.9.1.0/24'
+@@||dl.delivery.mp.microsoft.com$client='10.9.1.0/24'
+@@||bat.bing.com$client='10.9.1.0/24'
+@@||windowsupdate.com^$client='10.9.1.0/24'
+@@||ctldl.windowsupdate.com$client='10.9.1.0/24'
+@@||wns.windows.com^$client='10.9.1.0/24'
+@@||client.wns.windows.com^$client='10.9.1.0/24'
+@@||microsoft.com^$client='10.9.1.0/24'
+@@||update.microsoft.com^$client='10.9.1.0/24'
+@@||fe2cr.update.microsoft.com^$client='10.9.1.0/24'
+@@||slscr.update.microsoft.com^$client='10.9.1.0/24'
+@@||umwatson.events.data.microsoft.com^$client='10.9.1.0/24'
