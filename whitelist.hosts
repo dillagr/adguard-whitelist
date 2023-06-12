@@ -6,6 +6,7 @@
 @@||cloudfront.aws.a2z.com^$important
 @@||docs.aws.a2z.com^$important
 @@||check-ip.aws.a2z.com^$important
+@@||s3.amazonaws.com^$important
 ## Microsoft
 @@||download.microsoft.com^$important
 @@||download.windowsupdate.com^$important
@@ -35,3 +36,18 @@
 @@||github.io^$important
 ## NTP
 @@||ntp.org^$important
+## TORRENTS
+@@||rarbg.to^$important
+@@||rarbg.me^$important
+@@||magnetdl.com^$important
+@@||torrents.org^$important
+@@||torrentgalaxy.to^$important
+@@||eztv.to^$important
+@@||eztv.me^$important
+@@||eztv.cc^$important
+@@||eztv.ag^$important
+@@||eztv.wf^$important
+@@||rarbgmirror.xyz^$important
+## STREAMING
+@@||primewire.com^$important
+
