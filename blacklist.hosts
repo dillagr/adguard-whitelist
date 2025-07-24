@@ -4,3 +4,6 @@
 ||googleadservices.com^$important
 ## qnap-cloud
 ||connector.myqnapcloud.com$^important
+## dailymotion
+||geo.player.dailymotion.com^important
+||geo.dailymotion.com^important
